@@ -1,0 +1,121 @@
+{
+  "parents": [
+    {
+      "enrolled": false,
+      "id": 1,
+      "name": "Paul Lim",
+      "notes": []
+    },
+    {
+      "id": 2,
+      "name": "Juan Santos",
+      "enrolled": false,
+      "notes": []
+    },
+    {
+      "id": 3,
+      "name": "Jules Kahilig",
+      "enrolled": true,
+      "notes": []
+    },
+    {
+      "id": 4,
+      "name": "Kyle Fernando",
+      "enrolled": false,
+      "notes": []
+    },
+    {
+      "id": 5,
+      "name": "Cynthia Rivera",
+      "enrolled": true,
+      "notes": []
+    },
+    {
+      "id": 6,
+      "name": "Bridgette Cruz",
+      "enrolled": false,
+      "notes": []
+    },
+    {
+      "id": 7,
+      "name": "Jimmy Alapag",
+      "status": "Pre",
+      "notes": []
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Nathan",
+      "parentId": 1
+    },
+    {
+      "id": 2,
+      "name": "Nicolas",
+      "parentId": 3
+    },
+    {
+      "id": 3,
+      "name": "Norbert",
+      "parentId": 5
+    },
+    {
+      "id": 99,
+      "name": "Nigel",
+      "parentId": 1
+    },
+    {
+      "parentId": 4,
+      "name": "Ju",
+      "id": 100
+    },
+    {
+      "parentId": 4,
+      "name": "Ju",
+      "id": 101
+    },
+    {
+      "parentId": 4,
+      "name": "jun",
+      "id": 102
+    },
+    {
+      "parentId": 4,
+      "name": "Jov",
+      "id": 103
+    },
+    {
+      "parentId": 6,
+      "name": "Baby",
+      "id": 104
+    },
+    {
+      "parentId": 6,
+      "name": "Babes",
+      "id": 105
+    },
+    {
+      "parentId": 6,
+      "name": "Levi",
+      "id": 106
+    },
+    {
+      "parentId": 6,
+      "name": "Chan",
+      "id": 107
+    },
+    {
+      "parentId": 7,
+      "name": "Jove",
+      "id": 108
+    },
+    {
+      "parentId": 1,
+      "name": "NEw",
+      "id": 109
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
